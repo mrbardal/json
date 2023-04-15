@@ -1,0 +1,47 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "fullName": "reza bardal",
+      "email": "bardal@gmail.com",
+      "birthDate": "2021-03-08",
+      "marriageId": 1,
+      "genderId": 1,
+      "roleId": 1,
+      "address": "tehran"
+    },
+    {
+      "id": 2,
+      "fullName": "sajjad azimi",
+      "email": "azimi@gmail.com",
+      "birthDate": "2020-04-05",
+      "marriageId": 2,
+      "genderId": 1,
+      "roleId": 2,
+      "address": "karaj"
+    },
+    {
+      "id": 3,
+      "fullName": "maryam farahani",
+      "email": "farahani@gmail.com",
+      "birthDate": "2010-03-05",
+      "marriageId": 2,
+      "genderId": 2,
+      "roleId": 3,
+      "address": "karaj"
+    }
+  ],
+  "marriages": [
+    { "id": 1, "name": "Single" },
+    { "id": 2, "name": "Married" }
+  ],
+  "genders": [
+    { "id": 1, "name": "Male" },
+    { "id": 2, "name": "Female" }
+  ],
+  "roles": [
+    { "id": 1, "name": "Developer" },
+    { "id": 2, "name": "Designer" },
+    { "id": 2, "name": "Tester" }
+  ]
+}
